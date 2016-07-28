@@ -6,6 +6,8 @@ Azure Table Storage session store for [Connect](https://github.com/senchalabs/co
 [![Code Climate](https://codeclimate.com/github/perfilyev/connect-azure/badges/gpa.svg)](https://codeclimate.com/github/perfilyev/connect-azure)
 [![Coverage Status](https://coveralls.io/repos/github/perfilyev/connect-azure/badge.svg)](https://coveralls.io/github/perfilyev/connect-azure)
 [![Build Status](https://travis-ci.org/perfilyev/connect-azure.svg?branch=master)](https://travis-ci.org/perfilyev/connect-azure)
+![ES 2015](https://img.shields.io/badge/es-2015-yellow.svg)
+![Node 6](https://img.shields.io/badge/node-v6.0-yellow.svg)
 
 ## Usage
 
