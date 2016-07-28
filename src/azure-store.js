@@ -31,7 +31,7 @@ module.exports = connect => class AzureSessionStore extends connect.Store {
   getEntity(sid) {
     return ({
       PartitionKey: { _: sid },
-      RowKey: { _: '1' },
+      RowKey: { _: '1' }
     });
   }
 };
