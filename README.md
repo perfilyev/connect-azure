@@ -3,6 +3,9 @@
 Azure Table Storage session store for [Connect](https://github.com/senchalabs/connect) and [Express](http://expressjs.com/)
 
 [![npm version](https://img.shields.io/npm/v/connect-azure.svg)](https://www.npmjs.com/package/connect-azure)
+[![Code Climate](https://codeclimate.com/github/perfilyev/connect-azure/badges/gpa.svg)](https://codeclimate.com/github/perfilyev/connect-azure)
+[![Coverage Status](https://coveralls.io/repos/github/perfilyev/connect-azure/badge.svg)](https://coveralls.io/github/perfilyev/connect-azure)
+[![Build Status](https://travis-ci.org/perfilyev/connect-azure.svg?branch=master)](https://travis-ci.org/perfilyev/connect-azure)
 
 ## Usage
 

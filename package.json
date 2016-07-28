@@ -4,7 +4,8 @@
   "description": "Azure Table Storage session store for Express and Connect",
   "main": "src/azure-store.js",
   "scripts": {
-    "test": "./node_modules/.bin/_mocha"
+    "test": "./node_modules/.bin/_mocha",
+    "coverage": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha"
   },
   "repository": {
     "type": "git",
@@ -28,7 +29,9 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "coveralls": "^2.11.12",
     "express-session": "^1.14.0",
+    "istanbul": "^1.1.0-alpha.1",
     "mocha": "^2.5.3",
     "proxyquire": "^1.7.10",
     "sinon": "^1.17.5"
