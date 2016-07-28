@@ -1,0 +1,23 @@
+{
+  "name": "connect-azure",
+  "version": "0.0.1.beta",
+  "description": "Azure Table Storage session store for Express and Connect",
+  "main": "src/azure-store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perfilyev/connect-azure.git"
+  },
+  "keywords": ["azure", "express", "session", "store", "connect"],
+  "author": "perfilyevhead@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perfilyev/connect-azure/issues"
+  },
+  "homepage": "https://github.com/perfilyev/connect-azure#readme",
+  "dependencies": {
+    "azure-storage": "1.1.0"
+  }
+}
